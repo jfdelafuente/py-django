@@ -6,3 +6,7 @@ Seguimos el curso:
 
 1. Parte 1 : 
 https://simpleisbetterthancomplex.com/series/2017/09/04/a-complete-beginners-guide-to-django-part-1.html
+
+2. Parte 2 :
+https://simpleisbetterthancomplex.com/series/2017/09/11/a-complete-beginners-guide-to-django-part-2.html
+
