@@ -1,4 +1,7 @@
-Seguimos el curso: https://simpleisbetterthancomplex.com/series/2017/09/04/a-complete-beginners-guide-to-django-part-1.html
+El curso se puede seguir en la siguente url:
+ https://simpleisbetterthancomplex.com/series/2017/09/04/a-complete-beginners-guide-to-django-part-1.html
+
+Apuntes
 
 1. Instalación: python, django, pip y virtualenv
 2. Comenzar con un proyecto en django:
