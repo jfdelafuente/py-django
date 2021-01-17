@@ -1,0 +1,14 @@
+{% extends 'base.html' %}
+
+{% block title %}
+  About - {{ block.super }}
+{% endblock %}
+
+{% block breadcrumb %}
+  <li class="breadcrumb-item"><a href="{% url 'home' %}">Home</a></li>
+  <li class="breadcrumb-item active">About</li>
+{% endblock %}
+
+{% block content %}
+  <p>Añadiremos info sobre la aplicación</p>
+{% endblock %}
