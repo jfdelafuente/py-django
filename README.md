@@ -12,3 +12,7 @@ https://simpleisbetterthancomplex.com/series/2017/09/11/a-complete-beginners-gui
 
 3. Parte 3 :
 https://simpleisbetterthancomplex.com/series/2017/09/18/a-complete-beginners-guide-to-django-part-3.html
+
+4. Parte 4 :
+https://simpleisbetterthancomplex.com/series/2017/09/25/a-complete-beginners-guide-to-django-part-4.html
+
