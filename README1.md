@@ -4,6 +4,11 @@ El curso se puede seguir en la siguente url:
 Apuntes
 
 1. Instalación: python, django, pip y virtualenv
+
+    1.1. Activar entorno virtual
+
+        source venv/bin/activate
+
 2. Comenzar con un proyecto en django:
 
     2.1. To start a new Django project, run the command below:
